@@ -1,11 +1,31 @@
-body{
-    background:red;
-}
-.student {
-    background-color: rgb(77, 111, 224);
-    color: rgb(255, 255, 255);
-    border: 2px solid black;
-    margin: 15px;
-    padding: 15px;
-    height: 850px;
+
+body {
+    padding: 10px;
+    margin: 5px;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+    background: #efeee7;
+  }
+
+  
+  .student0 {
+      background-color:black;
+      color:white;
+      text-align: center;
+      height:65px;
+      line-height:50px;
+  }
+  
+
+  .student2{
+      width:85%;
+      float: right;
+      
+  }
+  .student3{
+      margin: auto;
+      width:30%
+   
   }
