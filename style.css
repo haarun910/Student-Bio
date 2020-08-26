@@ -8,42 +8,16 @@ body {
     color: #333;
     background: #efeee7;
 
-
-
-    height: 150px;
-    width: 600px;
-    background-color: green;
-    animation-name: stretch;
-    animation-duration: 3.0s; 
-    animation-timing-function: ease-out; 
-    animation-delay: 5s;
-    animation-direction: alternate;
-    animation-iteration-count: 5;
-    animation-fill-mode: none;
-    animation-play-state: running;
-
   }
-  @keyframes stretch {
-    0% {
-      transform: scale(.8);
-      background-color: blueviolet;
-      border-radius: 60%;
-    }
-    50% {
-      background-color: orange;
-    }
-    100% {
-      transform: scale(1.5);
-      background-color: brown;
-    }
-  }
-  
-  
+ 
 
-  
   .student0 {
-    height: 150px;
-    width: 600px;
+    color:red;
+    background:white;
+    text-align: center;
+   height: max-content;
+   line-height: normal;
+
     
   }
 
